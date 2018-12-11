@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidEmail</string>
+    <string name="main_email_from">请输入发件人邮箱</string>
+    <string name="main_email_to">请输入收件人邮箱</string>
+    <string name="main_email_title">请输入邮件标题</string>
+    <string name="main_email_context">请输入邮件内容</string>
+    <string name="main_email_password">请输入邮箱SMTP授权密码,不是登录密码!!!!</string>
+    <string name="main_email_send">点击发送邮件</string>
+</resources>
