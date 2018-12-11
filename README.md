@@ -183,5 +183,7 @@ public void SendEmail() {
 
 记得添加网络权限
 
+![picture](https://github.com/lillusory/EmailForAndroid/raw/master/meail_test.png)
+
 [点击下载Demo](https://github.com/lillusory/EmailForAndroid)
 
