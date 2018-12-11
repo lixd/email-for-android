@@ -1,0 +1,2 @@
+# EmailForAndroid
+一个Android平台的自动发送邮件的小Demo
