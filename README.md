@@ -19,7 +19,7 @@ activation.jar
  //2.将这3个jar包放到app下的lib文件夹中
  //3.选择这个三个jar包右键 Add As Library
  //4.如果导入成功 在Module 的build.gradle中就能看到这个 和平常引入第三方库一样
-  	implementation files('libs/activation.jar')
+    implementation files('libs/activation.jar')
     implementation files('libs/additionnal.jar')
     implementation files('libs/mail.jar')
 ```
