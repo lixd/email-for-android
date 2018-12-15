@@ -33,20 +33,13 @@
         android:hint="@string/main_email_context"
         app:layout_constraintTop_toBottomOf="@id/et_email_title" />
 
-    <EditText
-        android:id="@+id/et_email_password"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/main_email_password"
-        app:layout_constraintTop_toBottomOf="@id/et_email_context" />
-
     <Button
         android:id="@+id/btn_email_send"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:textSize="15sp"
         android:text="@string/main_email_send"
-        app:layout_constraintTop_toBottomOf="@id/et_email_password" />
+        android:textSize="15sp"
+        app:layout_constraintTop_toBottomOf="@id/et_email_context" />
 
 </android.support.constraint.ConstraintLayout>
